@@ -10,3 +10,8 @@ Comes with preference settings and customization!
 Here is where you can access the tool's windows after installation:
 
 ![How-To](https://user-images.githubusercontent.com/68948292/212914962-eaf5d342-d08e-48e1-a84f-503f4fc301ca.png)
+
+# Credits
+
+- Images of Mr. Incredible are taken from the [Uncanny Incredible Wiki](https://the-uncanny-incredible.fandom.com/wiki/Mr_Incredible_Becoming_Uncanny)
+- The sources of the used audio files can be found in the [Uncanny Incredible Wiki](https://the-uncanny-incredible.fandom.com/wiki/Mr_Incredible_Becoming_Uncanny) too.
