@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36ae0ae99a0d44609603b8f0e6bf7eaf, type: 3}
+  m_Name: UncannyErrorsSettings
+  m_EditorClassIdentifier: 
+  phases:
+  - minErrorCount: 0
+    texture: {fileID: 2800000, guid: 4a107b158b23a4846ae9287da5fa8aca, type: 3}
+    clip: {fileID: 8300000, guid: eb4f9ada8691195439b497619193da3d, type: 3}
+  - minErrorCount: 1
+    texture: {fileID: 2800000, guid: fc9eb381c8310944a8b6305c76a99b3c, type: 3}
+    clip: {fileID: 8300000, guid: 3264a9cd726633d479b7fff8a3244d9c, type: 3}
+  - minErrorCount: 4
+    texture: {fileID: 2800000, guid: 8a3eebbb343ef7a41aed83f7024d4c44, type: 3}
+    clip: {fileID: 8300000, guid: d3725b2f5ca45ce438ab949ec10b378d, type: 3}
+  - minErrorCount: 8
+    texture: {fileID: 2800000, guid: b4277c4aee3a8074c81379097391349a, type: 3}
+    clip: {fileID: 8300000, guid: e1bad62baa605b2449a090cf0beed5cf, type: 3}
+  - minErrorCount: 15
+    texture: {fileID: 2800000, guid: f5c49a91c13904c4e91fe78812c5842f, type: 3}
+    clip: {fileID: 8300000, guid: 9a1681821ebacc74793d455c5b10965a, type: 3}
+  - minErrorCount: 25
+    texture: {fileID: 2800000, guid: 8691c15468e440a4487db7d2498f4958, type: 3}
+    clip: {fileID: 8300000, guid: 8cbe053bbfffbab4e891fdfe4dc98d6d, type: 3}
+  - minErrorCount: 50
+    texture: {fileID: 2800000, guid: 2db3ac602856daa4ca826e366e65f942, type: 3}
+    clip: {fileID: 8300000, guid: cc0bdd28c2f391945ab69a40082d7b66, type: 3}
+  - minErrorCount: 100
+    texture: {fileID: 2800000, guid: 7e1c2148daab40a4ca8974b8aadca7d1, type: 3}
+    clip: {fileID: 8300000, guid: 39816d5a7f6760b4da6679544dc7c075, type: 3}
+  - minErrorCount: 200
+    texture: {fileID: 2800000, guid: 910242ff67ca57d4f80f97a72feeb7a7, type: 3}
+    clip: {fileID: 8300000, guid: df50610f4536f654cad5e8cea4c06777, type: 3}
+  - minErrorCount: 500
+    texture: {fileID: 2800000, guid: 91d2211c32863554e8aab73dd7a0edf2, type: 3}
+    clip: {fileID: 8300000, guid: da1c503e092c6ca4b9c9edd42039759f, type: 3}
+  _phases:
+  - minErrorCount: 0
+    texture: {fileID: 2800000, guid: 4a107b158b23a4846ae9287da5fa8aca, type: 3}
+    clip: {fileID: 8300000, guid: eb4f9ada8691195439b497619193da3d, type: 3}
+  - minErrorCount: 1
+    texture: {fileID: 2800000, guid: fc9eb381c8310944a8b6305c76a99b3c, type: 3}
+    clip: {fileID: 8300000, guid: 3264a9cd726633d479b7fff8a3244d9c, type: 3}
+  - minErrorCount: 4
+    texture: {fileID: 2800000, guid: 8a3eebbb343ef7a41aed83f7024d4c44, type: 3}
+    clip: {fileID: 8300000, guid: d3725b2f5ca45ce438ab949ec10b378d, type: 3}
+  - minErrorCount: 8
+    texture: {fileID: 2800000, guid: b4277c4aee3a8074c81379097391349a, type: 3}
+    clip: {fileID: 8300000, guid: e1bad62baa605b2449a090cf0beed5cf, type: 3}
+  - minErrorCount: 15
+    texture: {fileID: 2800000, guid: f5c49a91c13904c4e91fe78812c5842f, type: 3}
+    clip: {fileID: 8300000, guid: 9a1681821ebacc74793d455c5b10965a, type: 3}
+  - minErrorCount: 25
+    texture: {fileID: 2800000, guid: 8691c15468e440a4487db7d2498f4958, type: 3}
+    clip: {fileID: 8300000, guid: 8cbe053bbfffbab4e891fdfe4dc98d6d, type: 3}
+  - minErrorCount: 50
+    texture: {fileID: 2800000, guid: 2db3ac602856daa4ca826e366e65f942, type: 3}
+    clip: {fileID: 8300000, guid: cc0bdd28c2f391945ab69a40082d7b66, type: 3}
+  - minErrorCount: 100
+    texture: {fileID: 2800000, guid: 7e1c2148daab40a4ca8974b8aadca7d1, type: 3}
+    clip: {fileID: 8300000, guid: 39816d5a7f6760b4da6679544dc7c075, type: 3}
+  - minErrorCount: 200
+    texture: {fileID: 2800000, guid: 910242ff67ca57d4f80f97a72feeb7a7, type: 3}
+    clip: {fileID: 8300000, guid: df50610f4536f654cad5e8cea4c06777, type: 3}
+  - minErrorCount: 500
+    texture: {fileID: 2800000, guid: 91d2211c32863554e8aab73dd7a0edf2, type: 3}
+    clip: {fileID: 8300000, guid: da1c503e092c6ca4b9c9edd42039759f, type: 3}
